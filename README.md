@@ -55,3 +55,43 @@ It also offers features like job application tracking and interview coaching.
    - Offers a comprehensive job board where you can filter jobs to find remote opportunities. It is also useful for networking and connecting with recruiters[5].
 
 # Resume Builders
+
+1. **Resume.com**:
+   - Offers a free resume writer with dozens of templates.
+   - Provides job boards and career advice.
+   - Allows you to upload and edit an existing resume, customize a template, or create one from scratch with guidance throughout the process[1].
+
+2. **Resume.io**:
+   - Known for its resume management tools, particularly Novoresume, which offers the best resume management out of all builders tested.
+   - Provides customization options and clear labeling of premium features.
+   - Offers a free plan that includes a one-page resume with pre-defined layouts[2].
+
+3. **CakeResume**:
+   - Helps you create an online career profile similar to LinkedIn.
+   - Features a satisfying editor where you drag and drop resume snippets.
+   - Allows you to download your resume as a PDF or get a shareable link[2].
+
+4. **Uptowork (now Zety)**:
+   - Walks you through all sections of a resume, providing tips on what to include.
+   - Offers a user-friendly interface and simple design tools.
+   - Free to build your resume and host it online; paid plans offer more templates and download options[3].
+
+5. **VisualCV**:
+   - Lets you upload an existing resume and automatically parses the text to fit a template.
+   - Offers free use of three templates and a branded PDF download; paid plans provide more design elements and unbranded PDFs[3].
+
+6. **Zety**:
+   - Provides expert tips and a variety of templates designed by Certified Career Experts.
+   - Features a resume checker that scores your resume in real-time.
+   - Offers 18 templates with customization options and a flexible text editor[5].
+
+7. **DocHipo, Zety Resume Builder, ResumeTrick, Resume-Now, MyPerfectResume, VisualCV, Resume-Library, Jobscan, Rezi AI Resume Builder, Skillroads, Enhancv, Hiration**:
+   - These AI-powered tools help create effective resumes quickly and easily.
+   - They analyze job descriptions and resumes, suggest relevant keywords, and provide feedback on content and structure[4].
+
+8. **Figma**:
+   - Allows for complete customization of information and layout.
+   - Offers flexibility but requires more design skill[6].
+
+9. **Microsoft Word, InDesign, Photoshop, Canva, Visme, Venngage, Biteable, EasyPrompter**:
+   - These programs offer a range of options for creating resumes, from simple text documents to more graphic-intensive designs[8].
