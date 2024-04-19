@@ -24,25 +24,25 @@ It also offers features like job application tracking and interview coaching.
 
 ## Remote job listings
 
-1. **FlexJobs**:
+### FlexJobs:
    - Offers over 50 remote work categories with pre-screened positions ranging from freelance gigs to full-time jobs. It is highlighted for its variety and legitimacy in remote job postings[2][3][6].
 
-2. **Remote.co**:
+### Remote.co:
    - Specializes in curating a list of remote jobs and provides valuable insights and tips on remote work culture. It is recommended for both beginners and seasoned remote professionals[2][3][4].
 
-3. **ARC**:
+### ARC:
    - A remote-only job board for developers, offering specific listings for entry-level applicants such as Remote Junior Developer Jobs & Internships[2].
 
-4. **Virtual Vocations**:
+### Virtual Vocations:
    - Features telecommuting positions in fields like technical writing and paralegal. It also provides additional resources like a blog with tips for remote job seekers[2].
 
-5. **We Work Remotely**:
+### We Work Remotely:
    - Offers a straightforward layout with a wide range of remote jobs from customer service to programming. It connects users with telecommuting opportunities quickly[2][7].
 
-6. **JustRemote**:
+### JustRemote:
    - Covers various job verticals including Development, Marketing, Design, HR, and Customer Success, and allows filtering roles by location[2].
 
-7. **Pangian**:
+### .Pangian**:
    - Provides a robust list of open, remote positions in areas like web development, UX design, content creation, and digital marketing[2].
 
 8. **Remote OK**:
@@ -131,5 +131,5 @@ It also offers features like job application tracking and interview coaching.
 9. **FlexJobs** - Provides expert advice on landing a job with 25 job interview tips.
    - [Expert Job Interview Advice](https://www.flexjobs.com/blog/post/job-interview-advice-you-may-not-have-heard-before/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMjA1NjEwXX0=
+eyJoaXN0b3J5IjpbLTc2MjM5NjM4Nyw1NzMyMDU2MTBdfQ==
 -->
