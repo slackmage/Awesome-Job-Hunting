@@ -139,6 +139,36 @@ Offers a webinar recording that guides viewers through each aspect of remote job
 ### FlexJobs
 Provides expert advice on landing a job with 25 job interview tips.
    - [Expert Job Interview Advice](https://www.flexjobs.com/blog/post/job-interview-advice-you-may-not-have-heard-before/)
+
+# Write cover letters with AI
+
+Each of these AI tools offers different functionalities, from generating a basic structure to providing a fully customized cover letter. The choice of the best AI for writing cover letters may depend on the user's specific needs, such as the level of customization required, the ease of use, or the integration with other job application tools.
+
+**Grammarly's AI Cover Letter Generator**  
+Uses AI writing assistance to help craft quality cover letters quickly. Allows for personalization by entering key information and instructions.  
+[Grammarly Cover Letter Generator](https://www.grammarly.com/cover-letter)
+
+**Kickresume's AI Cover Letter Writer**  
+Features an AI cover letter writer that generates a cover letter and allows for customization with pre-written phrases or personal edits. Noted for saving time in the writing process.  
+[Kickresume Cover Letter Writer](https://www.kickresume.com/en/help-center/how-write-cover-letter/)
+
+**Resume Genius's AI-Powered Software**  
+Delivers high-quality cover letters with an easy-to-navigate builder. Provides a questionnaire to help tailor the cover letter and offers various templates.  
+[Resume Genius Cover Letter Builder](https://resumegenius.com/cover-letter-builder)
+
+**Zety's Cover Letter Builder**  
+Known for its simplicity and time-saving feature that pulls information from your resume. However, it has a limitation in customizing skills and strengths.  
+[Zety Cover Letter Builder](https://zety.com/cover-letter-builder)
+
+**Rezi's AI Cover Letter Writer**  
+Utilizes GPT-3 to generate unique cover letters based on inputs such as company name, position title, and highlighted skills.  
+[Rezi AI Cover Letter Writer](https://www.rezi.ai/cover-letter-writer)
+
+**ChatGPT and Bard with Gemini**  
+Suggested for providing guidance and generating a structure for cover letters. Encourages personalization and editing of the AI-generated content.  
+[ChatGPT](https://chat.openai.com/chat) and [Bard with Gemini](https://bard.google.com/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ4MTc4NjUsNTczMjA1NjEwXX0=
+eyJoaXN0b3J5IjpbLTEyMzcwNzMyNTcsLTE1MDQ4MTc4NjUsNT
+czMjA1NjEwXX0=
 -->
