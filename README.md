@@ -236,7 +236,40 @@ This resource is primarily for finding recruiters in specific locales, offering 
 
 These directories provide valuable resources for connecting with recruiters across various industries and locations, facilitating the search for qualified candidates or desirable job opportunities.
 
-# Negotiating salary
+# Determining and negotiating salary
+
+Determining the salary you should be getting involves a multi-faceted approach that includes market research, self-assessment, and networking:
+
+**Market Research**  
+Utilize online salary databases and tools such as Glassdoor, Payscale, and the U.S. Bureau of Labor Statistics to research the average salary for your position, experience level, and location. These platforms provide salary estimates based on data inputted by users and can give you a range of what others in similar roles are earning.
+
+**Self-Assessment**  
+Evaluate your own skills, experience, education, and certifications. Consider how these align with the demands of the job market and where you stand in comparison to peers in your industry. Your unique qualifications can justify a higher salary within the market range.
+
+**Networking**  
+Engage in conversations with colleagues, mentors, and industry contacts to gather insights about salary ranges and compensation packages. This can provide more personalized and current information. Discuss with peers in similar roles what they make, or frame the question in terms of what someone in your position should be earning.
+
+**Geographic Location**  
+Take into account the cost of living and the economic conditions in the area where you work or plan to work. Salaries can vary significantly based on location due to differences in living costs and local demand for certain skills.
+
+**Industry and Company Size**  
+Consider the industry you are in and the size of the company, as these factors can influence salary levels. Larger companies may offer higher salaries and more benefits, while startups might offer lower initial salaries but with stock options or growth potential.
+
+**Job Function and Title**  
+Within the same company or industry, salaries can differ based on job function. Roles directly tied to revenue generation or business development may offer higher compensation due to bonuses or commissions.
+
+**Professional Experience**  
+Your years of experience and the level of expertise you bring to the role are significant factors in determining your salary. More experienced professionals typically command higher salaries.
+
+**Education**  
+Higher levels of education generally correlate with higher earning potential. If your education level exceeds the requirements for the job, it can be a point of negotiation for a higher salary.
+
+**Performance and Potential**  
+If you have a track record of high performance or possess high potential for future growth, this can be leveraged to negotiate a higher salary.
+
+By combining these approaches, you can develop a well-rounded understanding of your market value and be better equipped to negotiate a fair salary that reflects your worth.
+
+## Negotiating salary
 
 Negotiating a salary effectively involves several key steps and considerations to ensure you secure a compensation package that reflects your value. Here’s a comprehensive approach:
 
@@ -268,8 +301,8 @@ Negotiating a salary effectively involves several key steps and considerations t
 
 By following these steps, you can navigate a salary negotiation with confidence, backed by thorough preparation and a clear understanding of your worth and the market standards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNDQzMjk1LC0xMzgyODE3OTI0LC0xND
-Q1NTA2MTc3LC04NDMyMjA4MTcsMTA3MTc0NDA4MiwtMTk1ODU3
-NDM4NCwtMTIzNzA3MzI1NywtMTUwNDgxNzg2NSw1NzMyMDU2MT
-BdfQ==
+eyJoaXN0b3J5IjpbLTE0NzA5ODY1NTUsNzkyNDQzMjk1LC0xMz
+gyODE3OTI0LC0xNDQ1NTA2MTc3LC04NDMyMjA4MTcsMTA3MTc0
+NDA4MiwtMTk1ODU3NDM4NCwtMTIzNzA3MzI1NywtMTUwNDgxNz
+g2NSw1NzMyMDU2MTBdfQ==
 -->
