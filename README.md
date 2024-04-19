@@ -22,5 +22,6 @@ It integrates with popular job sites like ZipRecruiter, LinkedIn, and GlassDoor.
 JobWizard.ai is an AI-powered "job copilot" that can autofill application information and provide recommendations.
 It also offers features like job application tracking and interview coaching.
 
+## Remote job listings
 
-https://remoteintech.company/?utm_campaign=GitHub+bio&utm_source=github&utm_medium=bio&utm_content=textlink
+https://remoteintech.company/
