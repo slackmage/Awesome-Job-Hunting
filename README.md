@@ -168,7 +168,7 @@ Utilizes GPT-3 to generate unique cover letters based on inputs such as company 
 Suggested for providing guidance and generating a structure for cover letters. Encourages personalization and editing of the AI-generated content.  
 [ChatGPT](https://chat.openai.com/chat) and [Bard with Gemini](https://bard.google.com/)
 
-# Writing thank you notes after the interview
+# AI Thank You 
 
 Writing a thoughtful thank-you note after an interview is an important step in the job application process. It not only shows your appreciation for the opportunity but also reaffirms your interest in the position and can help keep you top of mind for the interviewer. Here’s how to write an effective thank-you note:
 
@@ -239,7 +239,7 @@ This resource is primarily for finding recruiters in specific locales, offering 
 
 These directories provide valuable resources for connecting with recruiters across various industries and locations, facilitating the search for qualified candidates or desirable job opportunities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODA4NjQ2MiwxMDcxNzQ0MDgyLC0xOT
-U4NTc0Mzg0LC0xMjM3MDczMjU3LC0xNTA0ODE3ODY1LDU3MzIw
-NTYxMF19
+eyJoaXN0b3J5IjpbLTE5MzkwOTQxMDksMTA3MTc0NDA4MiwtMT
+k1ODU3NDM4NCwtMTIzNzA3MzI1NywtMTUwNDgxNzg2NSw1NzMy
+MDU2MTBdfQ==
 -->
