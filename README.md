@@ -89,47 +89,53 @@ It also offers features like job application tracking and interview coaching.
    - These AI-powered tools help create effective resumes quickly and easily.
    - They analyze job descriptions and resumes, suggest relevant keywords, and provide feedback on content and structure[4].
 
-### Figma**:
+### Figma:
    - Allows for complete customization of information and layout.
    - Offers flexibility but requires more design skill[6].
 
-9. **Microsoft Word, InDesign, Photoshop, Canva, Visme, Venngage, Biteable, EasyPrompter**:
+### Microsoft Word, InDesign, Photoshop, Canva, Visme, Venngage, Biteable, EasyPrompter:
    - These programs offer a range of options for creating resumes, from simple text documents to more graphic-intensive designs[8].
   
 # Preparing for interviews
 
-1. **Ask a Manager** - Offers comprehensive guides on preparing for job interviews, including step-by-step advice on researching the company and job description.
+### Ask a Manager
+Offers comprehensive guides on preparing for job interviews, including step-by-step advice on researching the company and job description.
    - [Ask a Manager Interview Guide](https://www.askamanager.org/how-to-guide)
    - [Step-by-Step Interview Prep](https://www.askamanager.org/2018/09/15838.html)
 
-2. **BioSpace** - Discusses the importance of body language during interviews and provides tips on how to effectively use and interpret it.
+### BioSpace
+Discusses the importance of body language during interviews and provides tips on how to effectively use and interpret it.
    - [Using and Interpreting Body Language During Interviews](https://www.biospace.com/article/using-and-interpreting-body-language-during-an-interview/)
 
-3. **FlexJobs** - Offers articles on mock interviews, remote job interview preparation, and general interview tips.
+### *FlexJobs
+Offers articles on mock interviews, remote job interview preparation, and general interview tips.
    - [Mock Interview Tips](https://www.flexjobs.com/blog/post/use-a-mock-interview-to-boost-your-job-search/)
    - [Remote Job Interview Preparation](https://www.flexjobs.com/blog/post/tips-preparing-for-your-remote-job-interview-v2/)
 
-4. **YouTube** - Provides videos with visual and practical advice on avoiding common body language mistakes during interviews.
+### YouTube 
+Provides videos with visual and practical advice on avoiding common body language mistakes during interviews.
    - [Body Language Mistakes in Interviews](https://www.youtube.com/watch?v=I7rj0kwrId0)
    - [Body Language Tips for Interviews](https://www.youtube.com/watch?v=9Fb4viTSXtI)
 
-5. **The Muse** - Offers detailed advice on body language and other non-verbal cues that are crucial during job interviews.
+### The Muse
+Offers detailed advice on body language and other non-verbal cues that are crucial during job interviews.
    - [Interview Body Language Tips](https://www.themuse.com/advice/interview-body-language-tips)
    - [Video Interview Tips](https://www.themuse.com/advice/video-interview-tips)
    - [Body Language Mistakes](https://www.themuse.com/advice/6-body-language-mistakes-you-dont-know-youre-making)
    - [Body Language for Presentations](https://www.themuse.com/advice/10-body-language-secret-weapons-for-your-next-presentation)
 
-6. **Executive Career Brand** - Discusses the concept of power posing and other body language strategies for executive job interviews.
+### Executive Career Brand
+Discusses the concept of power posing and other body language strategies for executive job interviews.
    - [Power Posing and Body Language in Job Interviews](https://executivecareerbrand.com/power-pose-to-ace-executive-job-interviews/)
 
-7. **BioSpace** - Provides tips on how to look, sound, and behave in an online interview.
+11. **BioSpace** - Provides tips on how to look, sound, and behave in an online interview.
    - [Online Interview Tips](https://www.biospace.com/article/how-to-look-sound-and-behave-in-an-online-interview/)
 
-8. **FlexJobs** - Offers a webinar recording that guides viewers through each aspect of remote job interviewing.
+12. **FlexJobs** - Offers a webinar recording that guides viewers through each aspect of remote job interviewing.
    - [Preparing for Remote Job Interviews Webinar](https://www.flexjobs.com/blog/post/webinar-recording-preparing-for-remote-job-interviews/)
 
-9. **FlexJobs** - Provides expert advice on landing a job with 25 job interview tips.
+13. **FlexJobs** - Provides expert advice on landing a job with 25 job interview tips.
    - [Expert Job Interview Advice](https://www.flexjobs.com/blog/post/job-interview-advice-you-may-not-have-heard-before/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjE4MzI4Miw1NzMyMDU2MTBdfQ==
+eyJoaXN0b3J5IjpbLTE4Njg4ODE1NjgsNTczMjA1NjEwXX0=
 -->
