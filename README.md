@@ -213,8 +213,10 @@ This resource is primarily for finding recruiters in specific locales, offering 
 [Recruiter.com](https://www.recruiter.com/recruiters.html)
 
 These directories provide valuable resources for connecting with recruiters across various industries and locations, facilitating the search for qualified candidates or desirable job opportunities.
+
+Neg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzIyMDgxNywxMDcxNzQ0MDgyLC0xOT
-U4NTc0Mzg0LC0xMjM3MDczMjU3LC0xNTA0ODE3ODY1LDU3MzIw
-NTYxMF19
+eyJoaXN0b3J5IjpbLTI0MjQ4NzY4NywtODQzMjIwODE3LDEwNz
+E3NDQwODIsLTE5NTg1NzQzODQsLTEyMzcwNzMyNTcsLTE1MDQ4
+MTc4NjUsNTczMjA1NjEwXX0=
 -->
