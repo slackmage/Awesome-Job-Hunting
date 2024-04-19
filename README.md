@@ -215,30 +215,9 @@ This format ensures that your thank-you note is not only polite and professional
 
 # Finding a recruiter
 
-Here are some directories for finding recruiters based on the sources provided:
 
-1. **iRecruit** - Offers a comprehensive directory of recruiters and executive search firms, categorized by specialty and location. It provides a search tool to find recruiters who are uniquely qualified to help job seekers and employers[3][5].
-
-2. **Recruiter Directory** - Allows users to search the most complete directory to find top headhunters, recruiters, and executive search firms. It includes listings of recruiters with detailed profiles and areas of expertise[4].
-
-3. **MRINetwork** - Helps users find the best talent advisors by location, industry, or keyword. The directory includes a global network of recruiters who specialize in various industries and regions[6].
-
-4. **Directories of Executive Search Firms and Recruiters on LinkedIn** - Available on Amazon.com, these directories can help you find recruiters who work in your field and are located near your home[7].
-
-5. **New Directory of Staffing Professionals by Recruiter.com** - Primarily a resource for finding recruiters in a particular locale, offering exclusive recruiting opportunities[8].
-
-These directories provide valuable resources for connecting with recruiters across various industries and locations, facilitating the search for qualified candidates or desirable job opportunities.
-
-Citations:
-[1] https://www.upwork.com/resources/how-to-find-a-recruiter
-[2] https://money.com/how-to-find-a-recruiter/
-[3] https://www.i-recruit.com
-[4] https://www.recruiter.directory
-[5] https://www.i-recruit.com/recruiters-directory.php
-[6] https://mrinetwork.com/global-directory/
-[7] https://www.linkedin.com/showcase/ebook-directories-of-executive-search-firms-and-recruiters/
-[8] https://www.recruiter.com/recruiting/directory-staffing-professionals/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTc0NDA4MiwtMTk1ODU3NDM4NCwtMT
-IzNzA3MzI1NywtMTUwNDgxNzg2NSw1NzMyMDU2MTBdfQ==
+eyJoaXN0b3J5IjpbNTcyOTQ0OTU0LDEwNzE3NDQwODIsLTE5NT
+g1NzQzODQsLTEyMzcwNzMyNTcsLTE1MDQ4MTc4NjUsNTczMjA1
+NjEwXX0=
 -->
