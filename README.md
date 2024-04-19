@@ -31,10 +31,10 @@ It also offers features like job application tracking and interview coaching.
    - Specializes in curating a list of remote jobs and provides valuable insights and tips on remote work culture. It is recommended for both beginners and seasoned remote professionals.
 
 ### ARC
-   - A remote-only job board for developers, offering specific listings for entry-level applicants such as Remote Junior Developer Jobs & Internships[2].
+   - A remote-only job board for developers, offering specific listings for entry-level applicants such as Remote Junior Developer Jobs & Internships.
 
 ### Virtual Vocations
-   - Features telecommuting positions in fields like technical writing and paralegal. It also provides additional resources like a blog with tips for remote job seekers[2].
+   - Features telecommuting positions in fields like technical writing and paralegal. It also provides additional resources like a blog with tips for remote job seekers.
 
 ### We Work Remotely
    - Offers a straightforward layout with a wide range of remote jobs from customer service to programming. It connects users with telecommuting opportunities quickly.
@@ -94,7 +94,7 @@ It also offers features like job application tracking and interview coaching.
    - Offers flexibility but requires more design skill[6].
 
 ### Microsoft Word, InDesign, Photoshop, Canva, Visme, Venngage, Biteable, EasyPrompter:
-   - These programs offer a range of options for creating resumes, from simple text documents to more graphic-intensive designs[8].
+   - These programs offer a range of options for creating resumes, from simple text documents to more graphic-intensive designs.
   
 # Preparing for interviews
 
@@ -140,5 +140,5 @@ Offers a webinar recording that guides viewers through each aspect of remote job
 Provides expert advice on landing a job with 25 job interview tips.
    - [Expert Job Interview Advice](https://www.flexjobs.com/blog/post/job-interview-advice-you-may-not-have-heard-before/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI1NzMwMjEsNTczMjA1NjEwXX0=
+eyJoaXN0b3J5IjpbLTE1MDQ4MTc4NjUsNTczMjA1NjEwXX0=
 -->
