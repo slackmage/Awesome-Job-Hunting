@@ -215,9 +215,31 @@ This format ensures that your thank-you note is not only polite and professional
 
 # Finding a recruiter
 
+Here are some directories for finding recruiters that can help job seekers and employers connect with top talent advisors:
 
+**iRecruit**  
+This directory offers a comprehensive list of recruiters and executive search firms, categorized by specialty and location. It provides a search tool to help find recruiters who are uniquely qualified to assist in job searches and hiring processes.  
+[iRecruit Directory](https://www.irecruit-directory.com/)
+
+**Recruiter Directory**  
+Users can search this extensive directory to find top headhunters, recruiters, and executive search firms. It includes detailed profiles and areas of expertise for each recruiter listed, making it easier to find the right match for specific needs.  
+[Recruiter Directory](https://www.onlinerecruitersdirectory.com/)
+
+**MRINetwork**  
+This network allows users to find the best talent advisors by location, industry, or keyword. The directory includes a global network of recruiters who specialize in various industries and regions, offering tailored recruitment services.  
+[MRINetwork](https://www.mrinetwork.com/)
+
+**Directories of Executive Search Firms and Recruiters on LinkedIn**  
+Available for purchase, these directories can help you find recruiters who work in your field and are located near you, leveraging the professional networking capabilities of LinkedIn.  
+[LinkedIn](https://www.linkedin.com/)
+
+**New Directory of Staffing Professionals by Recruiter.com**  
+This resource is primarily for finding recruiters in specific locales, offering exclusive recruiting opportunities and connections within the industry.  
+[Recruiter.com](https://www.recruiter.com/recruiters.html)
+
+These directories provide valuable resources for connecting with recruiters across various industries and locations, facilitating the search for qualified candidates or desirable job opportunities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyOTQ0OTU0LDEwNzE3NDQwODIsLTE5NT
-g1NzQzODQsLTEyMzcwNzMyNTcsLTE1MDQ4MTc4NjUsNTczMjA1
-NjEwXX0=
+eyJoaXN0b3J5IjpbMjEzODA4NjQ2MiwxMDcxNzQ0MDgyLC0xOT
+U4NTc0Mzg0LC0xMjM3MDczMjU3LC0xNTA0ODE3ODY1LDU3MzIw
+NTYxMF19
 -->
