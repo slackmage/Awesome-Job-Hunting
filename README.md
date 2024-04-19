@@ -107,7 +107,7 @@ Offers comprehensive guides on preparing for job interviews, including step-by-s
 Discusses the importance of body language during interviews and provides tips on how to effectively use and interpret it.
    - [Using and Interpreting Body Language During Interviews](https://www.biospace.com/article/using-and-interpreting-body-language-during-an-interview/)
 
-### *FlexJobs
+### FlexJobs
 Offers articles on mock interviews, remote job interview preparation, and general interview tips.
    - [Mock Interview Tips](https://www.flexjobs.com/blog/post/use-a-mock-interview-to-boost-your-job-search/)
    - [Remote Job Interview Preparation](https://www.flexjobs.com/blog/post/tips-preparing-for-your-remote-job-interview-v2/)
@@ -128,14 +128,17 @@ Offers detailed advice on body language and other non-verbal cues that are cruci
 Discusses the concept of power posing and other body language strategies for executive job interviews.
    - [Power Posing and Body Language in Job Interviews](https://executivecareerbrand.com/power-pose-to-ace-executive-job-interviews/)
 
-11. **BioSpace** - Provides tips on how to look, sound, and behave in an online interview.
+### BioSpace
+Provides tips on how to look, sound, and behave in an online interview.
    - [Online Interview Tips](https://www.biospace.com/article/how-to-look-sound-and-behave-in-an-online-interview/)
 
-12. **FlexJobs** - Offers a webinar recording that guides viewers through each aspect of remote job interviewing.
+### FlexJobs 
+Offers a webinar recording that guides viewers through each aspect of remote job interviewing.
    - [Preparing for Remote Job Interviews Webinar](https://www.flexjobs.com/blog/post/webinar-recording-preparing-for-remote-job-interviews/)
 
-13. **FlexJobs** - Provides expert advice on landing a job with 25 job interview tips.
+### FlexJobs
+Provides expert advice on landing a job with 25 job interview tips.
    - [Expert Job Interview Advice](https://www.flexjobs.com/blog/post/job-interview-advice-you-may-not-have-heard-before/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg4ODE1NjgsNTczMjA1NjEwXX0=
+eyJoaXN0b3J5IjpbLTk1MTg5MjYyOSw1NzMyMDU2MTBdfQ==
 -->
