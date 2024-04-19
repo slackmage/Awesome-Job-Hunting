@@ -24,8 +24,6 @@ It also offers features like job application tracking and interview coaching.
 
 ## Remote job listings
 
-Based on the search results provided, here are some of the best sites for finding remote jobs:
-
 1. **FlexJobs**:
    - Offers over 50 remote work categories with pre-screened positions ranging from freelance gigs to full-time jobs. It is highlighted for its variety and legitimacy in remote job postings[2][3][6].
 
