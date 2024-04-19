@@ -54,13 +54,4 @@ It also offers features like job application tracking and interview coaching.
 10. **LinkedIn**:
    - Offers a comprehensive job board where you can filter jobs to find remote opportunities. It is also useful for networking and connecting with recruiters[5].
 
-These sites are highly recommended across multiple sources for their extensive listings, specialized focus on remote work, and additional resources for job seekers.
-
-Citations:
-[1] https://www.reddit.com/r/remotework/comments/11e0r64/best_online_resources_for_finding_remote_work/
-[2] https://www.linkedin.com/pulse/20-best-sites-finding-remote-work-online-2023-bilawal-ashar
-[3] https://www.flexjobs.com/blog/post/where-can-i-find-remote-jobs/
-[4] https://remote.co
-[5] https://money.usnews.com/money/blogs/outside-voices-careers/articles/best-job-search-sites
-[6] https://www.upwork.com/resources/best-job-search-website
-[7] https://www.fastcompany.com/90801023/best-sites-to-find-remote-jobs
+# Resume Builders
