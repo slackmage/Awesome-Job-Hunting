@@ -300,9 +300,28 @@ Negotiating a salary effectively involves several key steps and considerations t
 - **Initial Email or Conversation**: "Thank you for the offer, I am very excited about the possibility of joining your team. Based on my research and understanding of the role, I believe a salary range of $X to $Y would be more reflective of the value I bring. Could we discuss this further?"
 
 By following these steps, you can navigate a salary negotiation with confidence, backed by thorough preparation and a clear understanding of your worth and the market standards.
+
+Based on the search results, some common reasons for not getting hired include:
+
+### Common reasons your aren't being hired
+1. Your resume and/or cover letter is not tailored to the specific job you are applying for.[3][4] Employers want to see how your skills and experience match the job requirements.
+
+2. Your resume is not formatted correctly for applicant tracking systems (ATS), causing it to get filtered out before a human even sees it.[3]
+
+3. You lack the necessary qualifications, skills, or experience that the employer is looking for.[2][3][4][5] Applying for roles that are not a good fit can hurt your chances.
+
+4. You have poor interview skills, such as coming across as boring, desperate, or unable to effectively communicate your fit for the role.[2][3][4]
+
+5. You are not networking enough to uncover "hidden" job opportunities and make connections at target companies.[5]
+
+6. Your job applications overall are weak, with issues like typos, lack of relevant examples, or failure to sell yourself effectively.[5]
+
+7. The competition for the role is simply very high, and there are other candidates who are more qualified.[5]
+
+The key seems to be ensuring your application materials are tailored, your interview skills are polished, and you are proactively networking and targeting roles you are truly qualified for. Persistence and a willingness to improve your approach are also important.[1]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA5ODY1NTUsNzkyNDQzMjk1LC0xMz
-gyODE3OTI0LC0xNDQ1NTA2MTc3LC04NDMyMjA4MTcsMTA3MTc0
-NDA4MiwtMTk1ODU3NDM4NCwtMTIzNzA3MzI1NywtMTUwNDgxNz
-g2NSw1NzMyMDU2MTBdfQ==
+eyJoaXN0b3J5IjpbMjg2MzE1NjQ3LC0xNDcwOTg2NTU1LDc5Mj
+Q0MzI5NSwtMTM4MjgxNzkyNCwtMTQ0NTUwNjE3NywtODQzMjIw
+ODE3LDEwNzE3NDQwODIsLTE5NTg1NzQzODQsLTEyMzcwNzMyNT
+csLTE1MDQ4MTc4NjUsNTczMjA1NjEwXX0=
 -->
